@@ -1,7 +1,7 @@
 
 # Lorena T Romão
 Oiê sou a Lorena, tenho 21 anos, moro no Paraná e estou começando a estudar tecnologia em 2023. <br/>
-Fiz três anos de engenharia mecâninca e junto com o começo da faculdade eu fui trabalhar em uma loja de roupas em um cargo meio período, nessa empresa que trabalhei tive algumas promoções até chegar no cargo de supervisora de loja. Aprendi e me desenvolvi muito, mas cheguei a conclusão de que tanto engenharia mecânica quanto comércio não eram pra mim. Eu já havia tido uma matéria básica de programação na faculdade e resolvi procurar saber mais sobre e começar a tão temida transição de carreira. <br/>
+Fiz três anos de engenharia mecâninca e junto com o começo da faculdade eu fui trabalhar em uma loja de roupas em um cargo meio período, nessa empresa que trabalhei tive algumas promoções até chegar no cargo de supervisora de loja. Aprendi e me desenvolvi muito, mas cheguei a conclusão de que tanto engenharia mecânica quanto comércio não eram para mim. Eu já havia tido uma matéria básica de programação na faculdade e resolvi procurar saber mais sobre e começar a tão temida transição de carreira. <br/>
 <br/>
 E foi assim que cheguei aqui no GitHub! 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UniBrasil e buscando mais conhecimento pela plataforma da DIO.  
