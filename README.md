@@ -19,6 +19,6 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UniBrasil 
 ![JavaScript](https://img.shields.io/badge/JavaScript-79CDCD?style=for-the-badge&logo=javascript)
 ![GITHUB](https://img.shields.io/badge/Github-79CDCD?style=for-the-badge&logo=github)
 ![GIT](https://img.shields.io/badge/Git-79CDCD?style=for-the-badge&logo=git)
-
+![Angular](https://img.shields.io/badge/Angular-79CDCD?style=for-the-badge&logo=angular&logoColor=C3002F)
 
 
