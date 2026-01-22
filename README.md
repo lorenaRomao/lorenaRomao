@@ -1,6 +1,6 @@
 
 # Oiê sou a Lorena
-Moro em Curitiba/PR, sou estudante de Análise e Desenvolvimento de Sistemas. <br/>
+Moro em Curitiba/PR, formada em Análise e Desenvolvimento de Sistemas. <br/>
 Atualmente trabalhando como Analista de Suporte e buscando conecimento para evoluir como profissional. <br/>
 <br/>
 
